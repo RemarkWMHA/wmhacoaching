@@ -1,35 +1,17 @@
-# Welcome to WMHA Coaching
+# About Me
 
-> "Our brains are designed to keep us alive, not to keep us happy."
+## ICF Certified Coach, Trainer, and Partner
 
-## Life & Business Coaching in Berlin
+### My Journey to Life and Business Coaching
 
-### What would it look like to live the life you truly desire?
+For years, I've roamed the world with a deep interest in understanding people's attitudes and behaviors, and supporting them where I can. Immersing myself in diverse cultures and witnessing countless journeys of self-exploration has taught me the importance of authenticity and individuality in finding one's path.
 
-A life where you feel content with your capabilities, respect yourself and your skills, and trust yourself to express your best self. Imagine being exactly where you're meant to be, surrounded by people who uplift you, doing meaningful work, and facing exciting challenges that fully utilize your strengths.
+In my coaching practice, I create a safe and nurturing space where clients can explore their true selves and desires at their own pace. Ultimately, you are in the driver's seat, and your personal and professional growth is your responsibility.
 
-Often, we find ourselves stuck in routines, facing the same struggles repeatedly, settling for unfulfilling jobs, and enduring difficult relationships. But you are here now, taking the first step by recognizing that something needs to change. You're considering Life or Business Coaching in Berlin, seeking the strength and motivation to achieve a life of true quality.
+If you're ready to dive deep, gain clarity, and take meaningful steps toward your goals, I'd be honored to walk alongside you. Whether navigating life's twists and turns or unlocking your true potential, let's embark on this transformative journey together.
 
-[Let’s talk about what is important for you now](contact.md)
+### My Professional Background
 
----
+After a challenging time I was lucky enough to find my own voice and gain life changing inspiration from top coaches in Coaching Space Institute where I completed my coach training program. This was followed by further exploration into Positive Intelligence and our inner strengths with world renowned author Shirzad Chamine.
 
-## What I Can Help You With
-
-- Going beyond your usual thinking to gain new perspectives
-- Feeling solid within yourself, even if circumstances change
-- Setting goals that align with who you are and where you want to go
-- Acknowledging your true feelings to free up energy
-- Relying on yourself as your own anchor, no matter where you are
-
-[Explore My Coaching Offers](coaching-offers.md)
-
----
-
-## Testimonials
-> "I would 100% recommend coaching with Susan! She is a very patient listener, empathetic, and supportive. No matter the topic—whether business-related or personal—Susan gave me the space to explore myself on a deeper level and gain insights on how I want to show up in the world." — Sophia
-
----
-
-[Contact](contact.md) | [About Me](about.md)
-
+[Inquire now](contact.md)
