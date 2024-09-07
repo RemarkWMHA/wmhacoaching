@@ -18,4 +18,4 @@ Secure your personalized Business Coaching session now to increase your job sati
 - Achieving work-life balance
 - Adapting to Modern Work and Agile environments
 
-[Inquire now for Business Coaching](contact.md)
+[Inquire now for Business Coaching](/contact)

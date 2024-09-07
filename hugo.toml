@@ -1,0 +1,44 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'WMHA Coaching'
+
+[[module.imports]]
+path = "github.com/willfaught/paige"
+
+[params.paige.list_page]
+disable_authors = true
+disable_collections = true
+disable_date = true
+disable_description = true
+disable_keywords = true
+disable_pages = true
+disable_reading_time = true
+disable_sections = true
+disable_series = true
+disable_summary = true
+disable_title = true
+
+[params.paige.page]
+disable_alert = true
+disable_authors = true
+disable_date = true
+disable_description = true
+disable_edit = true
+disable_history = true
+disable_keywords = true
+disable_next = true
+disable_prev = true
+disable_reading_time = true
+disable_series = true
+disable_title = true
+disable_toc = true
+
+[params.paige.site]
+disable_reading_time = true
+disable_breadcrumbs = true
+disable_copyright = true
+disable_credit = true
+disable_description = true
+disable_license = true
+disable_menu = true
+disable_title = false

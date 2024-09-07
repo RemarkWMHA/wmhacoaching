@@ -21,4 +21,4 @@ Trust yourself so you can express the most authentic, best version of yourself.
 - Discovering your purpose and defining what you want to achieve
 
 
-[Inquire now for Life Coaching](contact.md)
+[Inquire now for Life Coaching](./contact)

@@ -18,4 +18,4 @@
 
 Between sessions, I am available by email for questions, literature, self-coaching tools, and updates on goals.
 
-[Contact](contact.md)
+[Contact](./contact)
