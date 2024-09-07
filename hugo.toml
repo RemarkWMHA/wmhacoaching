@@ -1,9 +1,12 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'WMHA Coaching'
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "WMHA Coaching"
 
 [[module.imports]]
 path = "github.com/willfaught/paige"
+
+[params.paige]
+credit = "built with ❤️ by [nobe4](https://github.com/nobe4), with [hugo](https://gohugo.io/) and [paige](https://themes.gohugo.io/themes/paige/)"
 
 [params.paige.list_page]
 disable_authors = true
@@ -37,8 +40,8 @@ disable_toc = true
 disable_reading_time = true
 disable_breadcrumbs = true
 disable_copyright = true
-disable_credit = true
 disable_description = true
-disable_license = true
 disable_menu = true
+disable_license = true
+disable_credit = false
 disable_title = false
