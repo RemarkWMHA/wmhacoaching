@@ -10,7 +10,7 @@ A life where you feel content with your capabilities, respect yourself and your 
 
 Often, we find ourselves stuck in routines, facing the same struggles repeatedly, settling for unfulfilling jobs, and enduring difficult relationships. But you are here now, taking the first step by recognizing that something needs to change. You're considering Life or Business Coaching in Berlin, seeking the strength and motivation to achieve a life of true quality.
 
-[Let’s talk about what is important for you now](/contact)
+[Let’s talk about what is important for you now](./contact)
 
 ---
 
@@ -22,7 +22,7 @@ Often, we find ourselves stuck in routines, facing the same struggles repeatedly
 - Acknowledging your true feelings to free up energy
 - Relying on yourself as your own anchor, no matter where you are
 
-[Explore My Coaching Offers](/business-coaching)
+[Explore My Coaching Offers](./business-coaching)
 
 ---
 
@@ -31,5 +31,5 @@ Often, we find ourselves stuck in routines, facing the same struggles repeatedly
 
 ---
 
-[Contact](/contact) | [About Me](/about)
+[Contact](./contact) | [About Me](./about)
 
