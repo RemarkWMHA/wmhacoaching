@@ -14,7 +14,7 @@ I look forward to your message.
 - **Telephone (optional)**
 - **What would you like to share about your request?**
 
-By sending your inquiry, you accept the collection and processing of your data entered. These will never be shared with third parties. More information can be found in [our privacy policy](./privacy-policy).
+By sending your inquiry, you accept the collection and processing of your data entered. These will never be shared with third parties. More information can be found in [our privacy policy](/wmhacoaching/privacy-policy/).
 
 [Send Inquiry](mailto:info@wmhacoaching.com)
 
