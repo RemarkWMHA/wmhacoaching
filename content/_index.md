@@ -3,7 +3,8 @@
 </div>
 
 <div align="left">
-# WMHA Coaching
+
+  # WMHA Coaching
 
 > "Our brains are designed to keep us alive, not to keep us happy."
 
@@ -40,5 +41,4 @@ Too often, we get stuck in unfulfilling jobs and difficult relationships. But yo
 ---
 
 [Contact](./contact) | [About Me](./about)
-
 </div>
