@@ -1,7 +1,9 @@
+<div align="center">
 ![WMHA Logo](./assets/wmha_coaching-logo_170x170pc.PNG)
 
 ## WMHA Coaching
-  
+</div>  
+
 <div align="center">
   <a href="./business-coaching.md">
     <button style="margin-right: 20px;">Business Coaching</button>
