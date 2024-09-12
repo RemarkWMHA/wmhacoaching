@@ -2,6 +2,7 @@
   <img src="./assets/wmha_coaching-logo_170x170pc.PNG/>
 </div>
 
+<div align="left">
 # WMHA Coaching
 
 > "Our brains are designed to keep us alive, not to keep us happy."
@@ -39,3 +40,5 @@ Too often, we get stuck in unfulfilling jobs and difficult relationships. But yo
 ---
 
 [Contact](./contact) | [About Me](./about)
+
+</div>
