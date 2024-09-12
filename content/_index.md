@@ -1,8 +1,4 @@
-<div align="center">
 ![WMHA Logo](./assets/wmha_coaching-logo_170x170pc.PNG)
-</div>
-
-<div align="left">
 
   # WMHA Coaching
 
@@ -41,4 +37,4 @@ Too often, we get stuck in unfulfilling jobs and difficult relationships. But yo
 ---
 
 [Contact](./contact) | [About Me](./about)
-</div>
+
