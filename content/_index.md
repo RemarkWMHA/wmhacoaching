@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/wmha_coaching-logo_170x170pc.PNG/>
+# ![WMHA Logo](./path_to_your_logo_image.png)
 </div>
 
 <div align="left">
