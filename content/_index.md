@@ -2,6 +2,8 @@
 
 > "Our brains are designed to keep us alive, not to keep us happy."
 
+
+
 ## Life & Business Coaching in Berlin
 
 ### What would it look like to live the life you truly desire?
