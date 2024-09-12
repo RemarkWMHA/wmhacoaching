@@ -1,3 +1,4 @@
+# ![WMHA Logo](.assets/wmha_coaching-logo_170x170pc.PNG)
 # WMHA Coaching
 
 > "Our brains are designed to keep us alive, not to keep us happy."
