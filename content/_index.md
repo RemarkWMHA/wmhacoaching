@@ -1,8 +1,6 @@
 <div align="center">
-![WMHA Logo](./assets/wmha_coaching-logo_170x170pc.PNG)
-
-## WMHA Coaching
-</div>  
+  <img src="./assets/wmha_coaching-logo_170x170pc.PNG" alt="WMHA Logo" />
+</div> 
 
 <div align="center">
   <a href="./business-coaching.md">
