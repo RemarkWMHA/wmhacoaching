@@ -1,6 +1,3 @@
-# Revised version of the index.md content based on the user's description and the visuals provided.
-
-revised_content = '''
 # WMHA Coaching
 
 > "Our brains are designed to keep us alive, not to keep us happy."
@@ -38,12 +35,3 @@ Too often, we get stuck in unfulfilling jobs and difficult relationships. But yo
 ---
 
 [Contact](./contact) | [About Me](./about)
-
-'''
-
-# Saving the revised content back to a new file
-revised_file_path = "/mnt/data/revised_index.md"
-with open(revised_file_path, 'w') as file:
-    file.write(revised_content)
-
-revised_file_path
