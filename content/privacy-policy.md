@@ -1,4 +1,4 @@
-![logo](/images/logo.png)
+[![logo](/images/logo.png)](/)
 
 [Life Coaching](/life-coaching)
 [Business Coaching](/business-coaching)
