@@ -1,9 +1,9 @@
-![logo](./images/logo.png)
+![logo](/images/logo.png)
 
-[Life Coaching](./life-coaching)
-[Business Coaching](./business-coaching)
-[About Me](./about)
-[Contact](./contact)
+[Life Coaching](/life-coaching)
+[Business Coaching](/business-coaching)
+[About Me](/about)
+[Contact](/contact)
 
 # Welcome to WMHA Coaching
 
@@ -20,7 +20,7 @@ A life where you feel content with your capabilities, where you respect and trus
 
 Too often, we get stuck in unfulfilling jobs and difficult relationships. But you're here now, ready to make a change. By considering Life or Business Coaching, you're taking the first step towards a life of true quality and purpose.
 
-[Let’s talk about what is important for you NOW](./contact)
+[Let’s talk about what is important for you NOW](/contact)
 
 ---
 
@@ -32,7 +32,7 @@ Too often, we get stuck in unfulfilling jobs and difficult relationships. But yo
 - Free up energy by acknowledging your authentic self
 - Become your own anchor, regardless of your surroundings
 
-[Explore My Coaching Offers](./business-coaching)
+[Explore My Coaching Offers](/business-coaching)
 
 ---
 
@@ -42,5 +42,5 @@ Too often, we get stuck in unfulfilling jobs and difficult relationships. But yo
 
 ---
 
-[Contact](./contact) | [About Me](./about)
+[Contact](/contact) | [About Me](/about)
 
