@@ -1,3 +1,10 @@
+![logo](/images/logo.png)
+
+[Life Coaching](/life-coaching)
+[Business Coaching](/business-coaching)
+[About Me](/about)
+[Contact](/contact)
+
 # Life Coaching
 
 Enhancing your quality of life touches on so many aspects of our existence. In my life coaching sessions, we explore a wide range of topics—family, fulfilling relationships, hobbies, social and ecological engagement, and self-fulfillment. We address everyday life as well as deeper questions about your values and goals. Additionally, we focus on fitness, health, and mindful self-management to promote balance and well-being.
@@ -21,4 +28,4 @@ Trust yourself so you can express the most authentic, best version of yourself.
 - Discovering your purpose and defining what you want to achieve
 
 
-[Inquire now for Life Coaching](./contact)
+[Inquire now for Life Coaching](/contact)
