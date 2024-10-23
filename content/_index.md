@@ -1,9 +1,6 @@
-![logo](/images/logo.png)
+[![logo](/images/logo.png)](/)
 
-[Life Coaching](/life-coaching)
-[Business Coaching](/business-coaching)
-[About Me](/about)
-[Contact](/contact)
+[Life Coaching](/life-coaching)    [Business Coaching](/business-coaching)   [About Me](/about)   [Contact](/contact)
 
 # Welcome to WMHA Coaching
 
@@ -12,7 +9,9 @@
 
 ---
 
+
 ## Life & Business Coaching Online
+
 
 ### What would it look like to live the life you truly desire?
 
@@ -38,12 +37,12 @@ Too often, we get stuck in unfulfilling jobs and difficult relationships. But yo
 
 ## Client Testimonials
 
-> "I would 100% recommend coaching with Susan! She is a very patient listener, empathetic, and supportive. Whether the topic was business or personal, Susan provided me with space to explore myself on a deeper level and understand how I want to show up in the world." — Sophia
+> _"I would 100% recommend coaching with Susan! She is a very patient listener, empathetic, and supportive. Whether the topic was business or personal, Susan provided me with space to explore myself on a deeper level and understand how I want to show up in the world."_ — Sophia
 
 ---
 
 
 
-![logo](/images/bottom_logo.png)   [Contact](/contact)  |  [About Me](/about)  |  [Impressum](/privacy-policy)
+![logo](/images/bottom_logo.png)                                                  [Contact](/contact)  |  [About Me](/about)  |  [Impressum](/privacy-policy)
 
 
