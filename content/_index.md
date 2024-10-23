@@ -1,6 +1,6 @@
 [![logo](/images/logo.png)](/)
 
-[Life Coaching](/life-coaching)    [Business Coaching](/business-coaching)   [About Me](/about)   [Contact](/contact)
+[Life Coaching](/life-coaching)   [![Business Coaching](/images/Business-Coaching-button.png)](/business-coaching)   [About Me](/about)   [Contact](/contact)
 
 # Welcome to WMHA Coaching
 
