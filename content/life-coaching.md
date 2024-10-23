@@ -1,9 +1,8 @@
-![logo](/images/logo.png)
+[![logo](/images/logo.png)](/)
 
-[Life Coaching](/life-coaching)
-[Business Coaching](/business-coaching)
-[About Me](/about)
-[Contact](/contact)
+[Life Coaching](/life-coaching)    [Business Coaching](/business-coaching)   [About Me](/about)   [Contact](/contact)
+
+
 
 # Life Coaching
 
@@ -29,3 +28,8 @@ Trust yourself so you can express the most authentic, best version of yourself.
 
 
 [Inquire now for Life Coaching](/contact)
+
+
+
+![logo](/images/bottom_logo.png)   [Contact](/contact)  |  [About Me](/about)  |  [Impressum](/privacy-policy)
+
