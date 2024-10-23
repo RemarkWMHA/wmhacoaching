@@ -1,9 +1,7 @@
-![logo](/images/logo.png)
+[![logo](/images/logo.png)](/)
 
-[Life Coaching](/life-coaching)
-[Business Coaching](/business-coaching)
-[About Me](/about)
-[Contact](/contact)
+[Life Coaching](/life-coaching)    [Business Coaching](/business-coaching)   [About Me](/about)   [Contact](/contact)
+
 
 # Get in Touch
 
@@ -32,3 +30,8 @@ By sending your inquiry, you accept the collection and processing of your data e
 Located in Berlin  
 +49 170 744 7930  
 info@wmhacoaching.com
+
+
+
+![logo](/images/bottom_logo.png)   [Contact](/contact)  |  [About Me](/about)  |  [Impressum](/privacy-policy)
+
