@@ -1,3 +1,10 @@
+![logo](/images/logo.png)
+
+[Life Coaching](/life-coaching)
+[Business Coaching](/business-coaching)
+[About Me](/about)
+[Contact](/contact)
+
 # About Me
 
 ## ICF Certified Coach, Trainer, and Partner
@@ -14,4 +21,4 @@ If you're ready to dive deep, gain clarity, and take meaningful steps toward you
 
 After a challenging time I was lucky enough to find my own voice and gain life changing inspiration from top coaches in Coaching Space Institute where I completed my coach training program. This was followed by further exploration into Positive Intelligence and our inner strengths with world renowned author Shirzad Chamine.
 
-[Inquire now](./contact)
+[Inquire now](/contact)
