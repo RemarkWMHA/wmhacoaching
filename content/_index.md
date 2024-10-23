@@ -42,8 +42,8 @@ Too often, we get stuck in unfulfilling jobs and difficult relationships. But yo
 
 ---
 
-[Contact](/contact) | [About Me](/about) [Impressum](/privacy-policy)
 
-![logo](/images/bottom_logo.png)
+
+![logo](/images/bottom_logo.png)   [Contact](/contact)  |  [About Me](/about)  |  [Impressum](/privacy-policy)
 
 
