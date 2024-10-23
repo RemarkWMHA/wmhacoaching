@@ -1,9 +1,12 @@
-# Welcome to WMHA Coaching
+![logo](./images/logo.png)
 
 [Life Coaching](./life-coaching)
 [Business Coaching](./business-coaching)
 [About Me](./about)
 [Contact](./contact)
+
+# Welcome to WMHA Coaching
+
 
 >## "Our brains are designed to keep us alive, not to keep us happy."
 
