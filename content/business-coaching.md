@@ -1,9 +1,7 @@
-![logo](/images/logo.png)
+[![logo](/images/logo.png)](/)
 
-[Life Coaching](/life-coaching)
-[Business Coaching](/business-coaching)
-[About Me](/about)
-[Contact](/contact)
+[Life Coaching](/life-coaching)    [Business Coaching](/business-coaching)   [About Me](/about)   [Contact](/contact)
+
 
 # Business Coaching
 
@@ -26,3 +24,7 @@ Secure your personalized Business Coaching session now to increase your job sati
 - Adapting to Modern Work and Agile environments
 
 [Inquire now for Business Coaching](/contact)
+
+
+![logo](/images/bottom_logo.png)   [Contact](/contact)  |  [About Me](/about)  |  [Impressum](/privacy-policy)
+
