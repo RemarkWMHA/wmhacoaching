@@ -1,3 +1,10 @@
+![logo](/images/logo.png)
+
+[Life Coaching](/life-coaching)
+[Business Coaching](/business-coaching)
+[About Me](/about)
+[Contact](/contact)
+
 # Get in Touch
 
 You would like to make a Coaching appointment or need more information?
@@ -14,7 +21,7 @@ I look forward to your message.
 - **Telephone (optional)**
 - **What would you like to share about your request?**
 
-By sending your inquiry, you accept the collection and processing of your data entered. These will never be shared with third parties. More information can be found in [our privacy policy](/wmhacoaching/privacy-policy/).
+By sending your inquiry, you accept the collection and processing of your data entered. These will never be shared with third parties. More information can be found in [our privacy policy](/privacy-policy/).
 
 [Send Inquiry](mailto:info@wmhacoaching.com)
 
