@@ -1,27 +1,9 @@
-<div align="center">
-  <img src="./assets/wmha_coaching-logo_170x170pc.PNG" alt="WMHA Logo" />
-</div> 
+# Welcome to WMHA Coaching
 
-<div align="center">
-  <a href="./business-coaching.md">
-    <button style="margin-right: 20px;">Business Coaching</button>
-  </a>
-  <a href="./life-coaching.md">
-    <button style="margin-right: 20px;">Life Coaching</button>
-  </a>
-  <a href="./about.md">
-    <button style="margin-right: 20px;">About Me</button>
-  </a>
-  <a href="./contact.md">
-    <button>Contact</button>
-  </a>
-</div>
 [Life Coaching](./life-coaching)
 [Business Coaching](./business-coaching)
 [About Me](./about)
 [Contact](./contact)
-
-# Welcome to WMHA Coaching
 
 >## "Our brains are designed to keep us alive, not to keep us happy."
 
