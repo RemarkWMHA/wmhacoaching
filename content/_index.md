@@ -5,7 +5,7 @@
 # Welcome to WMHA Coaching
 
 
->## "Our brains are designed to keep us alive, not to keep us happy."
+># _"Our brains are designed to keep us alive, not to keep us happy."_
 
 ---
 
