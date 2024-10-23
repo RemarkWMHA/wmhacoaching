@@ -1,9 +1,8 @@
-![logo](/images/logo.png)
+[![logo](/images/logo.png)](/)
 
-[Life Coaching](/life-coaching)
-[Business Coaching](/business-coaching)
-[About Me](/about)
-[Contact](/contact)
+[Life Coaching](/life-coaching)    [Business Coaching](/business-coaching)   [About Me](/about)   [Contact](/contact)
+
+
 
 # FAQ
 
@@ -26,3 +25,7 @@
 Between sessions, I am available by email for questions, literature, self-coaching tools, and updates on goals.
 
 [Contact](/contact)
+
+
+![logo](/images/bottom_logo.png)     [Impressum](/privacy-policy)
+
