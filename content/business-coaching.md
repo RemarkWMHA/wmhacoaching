@@ -1,3 +1,10 @@
+![logo](/images/logo.png)
+
+[Life Coaching](/life-coaching)
+[Business Coaching](/business-coaching)
+[About Me](/about)
+[Contact](/contact)
+
 # Business Coaching
 
 Imagine finding deeper meaning in your work, fully engaging without burnout, and reaching your potential in a balanced way. Picture yourself being valued, supported, and continually developing, while building strong relationships and collaborating effectively in a solution-oriented environment.
@@ -18,4 +25,4 @@ Secure your personalized Business Coaching session now to increase your job sati
 - Achieving work-life balance
 - Adapting to Modern Work and Agile environments
 
-[Inquire now for Business Coaching](./contact)
+[Inquire now for Business Coaching](/contact)
