@@ -23,7 +23,7 @@
 
 ---
 
-## Life & Business Coaching in Berlin & Online
+## Life & Business Coaching Online
 
 ### What would it look like to live the life you truly desire?
 
