@@ -4,11 +4,9 @@
 
 # Welcome to WMHA Coaching
 
-[![Quote](/images/Index_Quote_2.png)](/about)
-
+[{{< paige/image alt="quote" src="/images/Index_Quote_2.png" width="100%" >}}](/about)
 
 ---
-
 
 ## Life & Business Coaching Online
 
