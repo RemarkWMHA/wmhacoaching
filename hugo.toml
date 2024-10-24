@@ -11,6 +11,7 @@ path = "github.com/willfaught/paige"
 
 [params.paige]
 credit = "built with ❤️ by [nobe4](https://github.com/nobe4), with [hugo](https://gohugo.io/) and [paige](https://themes.gohugo.io/themes/paige/)"
+color_scheme = "light"
 
 [params.paige.list_page]
 disable_authors = true
