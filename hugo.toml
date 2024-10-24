@@ -4,7 +4,7 @@ title = "WMHA Coaching"
 
 # Enable HTML rendering on the website, e.g. iframe
 [markup.goldmark.renderer]
-unsafe = false
+unsafe = true
 
 [[module.imports]]
 path = "github.com/willfaught/paige"

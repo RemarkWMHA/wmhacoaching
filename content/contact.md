@@ -29,8 +29,8 @@ By sending your inquiry, you accept the collection and processing of your data e
 
 ## Contact Details
 **WMHA Coaching**
-Located in Berlin  
-+49 170 744 7930  
+Located in Berlin
++49 170 744 7930
 info@wmhacoaching.com
 
 
