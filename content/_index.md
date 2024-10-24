@@ -4,8 +4,8 @@
 
 # Welcome to WMHA Coaching
 
+[![Quote](/images/Index_Quote.png)](/about)
 
-># _"Our brains are designed to keep us alive, not to keep us happy."_
 
 ---
 
