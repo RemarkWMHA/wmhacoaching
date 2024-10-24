@@ -4,7 +4,7 @@
 
 # Welcome to WMHA Coaching
 
-[![Quote](/images/Index_Quote.png)](/about)
+[![Quote](/images/Index_Quote_2.png)](/about)
 
 
 ---
