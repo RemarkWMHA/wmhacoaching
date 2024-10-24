@@ -43,6 +43,7 @@ Too often, we get stuck in unfulfilling jobs and difficult relationships. But yo
 
 
 
-![logo](/images/bottom_logo.png)                                                  [Contact](/contact)  |  [About Me](/about)  |  [Impressum](/privacy-policy)
+![logo](/images/bottom_logo.png)                    [Contact](/contact)  |  [About Me](/about)  |  [Impressum](/privacy-policy)  |  [Legal Notice](/legal_notice)
+
 
 
