@@ -1,6 +1,10 @@
-[![logo](/images/logo.png)](/)
+[<p align="center"> ![logo](/images/logo.png)](/)
 
-[![Life Coaching](/images/LC_button_2.png)](/life-coaching)   [![Business Coaching](/images/BC_button_2.png)](/business-coaching)   [![About Me](/images/AM_button_2.png)](/about)   [![Contact](/images/C_button_2.png)](/contact)
+<br>
+
+[<p align="center"> ![Life Coaching](/images/LC_button_2.png)](/life-coaching)  [![Business Coaching](/images/BC_button_2.png)](/business-coaching)  [![About Me](/images/AM_button_2.png)](/about) [![Contact](/images/C_button_2.png)](/contact)
+
+<br><br>
 
 
 # About Me
@@ -15,6 +19,8 @@ In my coaching practice, I create a safe and nurturing space where clients can e
 
 If you're ready to dive deep, gain clarity, and take meaningful steps toward your goals, I'd be honored to walk alongside you. Whether navigating life's twists and turns or unlocking your true potential, let's embark on this transformative journey together.
 
+<br><br>
+
 ### My Professional Background
 
 After navigating my own challenging times, I discovered my voice and drew life-changing inspiration from exceptional mentors at the Coaching Space Institute, where I completed an ICF-accredited coach training program. This journey deepened with an exploration of Positive Intelligence and inner strengths, guided by renowned author Shirzad Chamine.
@@ -23,5 +29,6 @@ As an ACC-level ICF-certified coach with a background in education, training, an
 
 [Inquire now](/contact)
 
+<br><br>
 
 ![logo](/images/bottom_logo.png)                                                  [Contact](/contact)  |  [About Me](/about)  |  [Impressum](/privacy-policy)
