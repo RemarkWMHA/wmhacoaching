@@ -1,6 +1,10 @@
-[![logo](/images/logo.png)](/)
+[<p align="center"> ![logo](/images/logo.png)](/)
 
-[![Life Coaching](/images/LC_button_2.png)](/life-coaching)   [![Business Coaching](/images/BC_button_2.png)](/business-coaching)   [![About Me](/images/AM_button_2.png)](/about)   [![Contact](/images/C_button_2.png)](/contact)
+<br>
+
+[<p align="center"> ![Life Coaching](/images/LC_button_2.png)](/life-coaching)  [![Business Coaching](/images/BC_button_2.png)](/business-coaching)  [![About Me](/images/AM_button_2.png)](/about) [![Contact](/images/C_button_2.png)](/contact)
+
+<br><br>
 
 
 
@@ -12,12 +16,14 @@ WMHA Coaching
 Contact:
 E-Mail: info@wmahcoaching.com
 
+<br><br>
+
 Responsible for the content according to § 55 Abs. 2 RStV:
 
 Susan Kremer
 Prenzlauer Allee 14
 10405, Berlin
 
-
+<br><br>
 
 ![logo](/images/bottom_logo.png)                                                  [Contact](/contact)  |  [About Me](/about)  |  [Impressum](/privacy-policy)
