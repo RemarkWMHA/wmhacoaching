@@ -9,7 +9,7 @@
 
 Privacy Policy
 
-<h1><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">privacy policy</font></font></h1>
+<h1><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Privacy policy</font></font></h1>
 <h2 id="m716"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">preamble</font></font></font></font></h2>
 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">With the following data protection declaration, we would like to inform you about which types of your personal data (hereinafter also referred to as "data") we process, for what purposes and to what extent. This data protection declaration applies to all processing of personal data carried out by us, both in the context of the provision of our services and in particular on our websites, in mobile applications and within external online presences, such as our social media profiles (hereinafter collectively referred to as "online offering").</font></font></font></font></p>
 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">The terms used are not gender-specific.</font></font></font></font></p>
