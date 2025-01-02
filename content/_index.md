@@ -1,4 +1,4 @@
-[![logo](/images/logo.png)](/)
+[<p align="center"> ![logo](/images/logo.png)](/)
 
 [![Life Coaching](/images/LC_button_2.png)](/life-coaching)   [![Business Coaching](/images/BC_button_2.png)](/business-coaching)   [![About Me](/images/AM_button_2.png)](/about)   [![Contact](/images/C_button_2.png)](/contact)
 
