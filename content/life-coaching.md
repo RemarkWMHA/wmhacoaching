@@ -1,7 +1,10 @@
-[![logo](/images/logo.png)](/)
+[<p align="center"> ![logo](/images/logo.png)](/)
 
-[![Life Coaching](/images/LC_button_2.png)](/life-coaching)   [![Business Coaching](/images/BC_button_2.png)](/business-coaching)   [![About Me](/images/AM_button_2.png)](/about)   [![Contact](/images/C_button_2.png)](/contact)
+<br>
 
+[<p align="center"> ![Life Coaching](/images/LC_button_2.png)](/life-coaching)  [![Business Coaching](/images/BC_button_2.png)](/business-coaching)  [![About Me](/images/AM_button_2.png)](/about) [![Contact](/images/C_button_2.png)](/contact)
+
+<br><br>
 
 
 
@@ -12,6 +15,8 @@ Enhancing your quality of life touches on so many aspects of our existence. In m
 Since these areas of life are interconnected, a holistic approach is essential for lasting and meaningful change.
 
 Trust yourself so you can express the most authentic, best version of yourself.
+
+<br><br>
 
 ## Potential Life Coaching Topics:
 
@@ -27,10 +32,11 @@ Trust yourself so you can express the most authentic, best version of yourself.
 - Embracing your dreams and finally pursuing them
 - Discovering your purpose and defining what you want to achieve
 
+<br>
 
 [Inquire now for Life Coaching](/contact)
 
-
+<br><br>
 
 ![logo](/images/bottom_logo.png)   [Contact](/contact)  |  [About Me](/about)  |  [Impressum](/privacy-policy)
 
