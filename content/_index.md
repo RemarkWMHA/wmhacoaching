@@ -12,6 +12,8 @@
 
 ---
 
+<br><br>
+
 ## Life & Business Coaching Online
 
 
@@ -25,6 +27,8 @@ Too often, we get stuck in unfulfilling jobs and difficult relationships. But yo
 
 ---
 
+<br><br>
+
 ## How I Can Support You:
 
 - Expand your thinking and gain fresh perspectives
@@ -36,6 +40,7 @@ Too often, we get stuck in unfulfilling jobs and difficult relationships. But yo
 [Explore My Coaching Offers](/business-coaching)
 
 ---
+<br>
 
 ## Client Testimonials
 
@@ -43,7 +48,7 @@ Too often, we get stuck in unfulfilling jobs and difficult relationships. But yo
 
 ---
 
-
+<br><br>
 
 ![logo](/images/bottom_logo.png)  [Contact](/contact)  |  [About Me](/about)  |  [Impressum](/privacy-policy)  |  [Legal Notice](/legal-notice)
 
