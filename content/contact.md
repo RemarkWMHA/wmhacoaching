@@ -31,6 +31,7 @@ I look forward to your message.
 By sending your inquiry, you accept the collection and processing of your data entered. These will never be shared with third parties. More information can be found in [our privacy policy](/privacy-policy/).
 
 <br>
+
 [Send Inquiry](mailto:info@wmhacoaching.com)
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfFu88BW0O9Ww68tFY_CGAyhUwRz-Jq0SuAG3ULblA2H1u4aQ/viewform?embedded=true" width="640" height="1498" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
