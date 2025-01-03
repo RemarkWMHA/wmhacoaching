@@ -1,6 +1,6 @@
 baseURL = "https://wmhacoaching.com/"
 languageCode = "en-us"
-title = "WMHA Coaching"
+title = ""
 
 # Enable HTML rendering on the website, e.g. iframe
 [markup.goldmark.renderer]
