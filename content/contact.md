@@ -9,8 +9,9 @@
 # Get in Touch
 
 You would like to make a Coaching appointment or need more information?
-I look forward to your message.
+I look forward to your message or simply [book an call](https://calendar.app.google/xmCTLfKzSViZHHrV7)
 
+<br>
 <br>
 
 ### Please specify your request
