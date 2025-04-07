@@ -48,6 +48,21 @@ Too often, we get stuck in unfulfilling jobs and difficult relationships. But yo
 
 ---
 
+<br>
+
+<!-- TrustBox widget -->
+<div class="trustpilot-widget"
+  data-locale="en-US"
+  data-template-id="YOUR-TEMPLATE-ID"
+  data-businessunit-id="YOUR-BUSINESS-UNIT-ID"
+  data-style-height="120px"
+  data-style-width="100%"
+  data-theme="light">
+  <a href="https://www.trustpilot.com/review/YOUR-DOMAIN" target="_blank" rel="noopener">Trustpilot</a>
+</div>
+<!-- End TrustBox widget -->
+
+
 <br><br>
 
 ![logo](/images/bottom_logo.png)  [Contact](/contact)  |  [About Me](/about)  |  [Impressum](/privacy-policy)  |  [Legal Notice](/legal-notice)
