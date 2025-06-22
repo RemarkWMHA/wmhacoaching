@@ -25,7 +25,7 @@ If you're ready to dive deep, gain clarity, and take meaningful steps toward you
 
 After navigating my own challenging times, I discovered my voice and drew life-changing inspiration from exceptional mentors at the Coaching Space Institute, where I completed an ICF-accredited coach training program. This journey deepened with an exploration of Positive Intelligence and inner strengths, guided by renowned author Shirzad Chamine.
 
-As an ACC-level ICF-certified coach with a background in education, training, and quality management, I combine empathy, structure, and creativity to support young professionals like you. Whether you’re navigating career transitions, building resilience, or unlocking your full potential, I’m here to guide you through challenges and help you thrive in both your personal and professional life.
+As an PCC-level ICF-certified coach with a background in education, training, and quality management, I combine empathy, structure, and creativity to support young professionals like you. Whether you’re navigating career transitions, building resilience, or unlocking your full potential, I’m here to guide you through challenges and help you thrive in both your personal and professional life.
 
 [Inquire now](/contact)
 
