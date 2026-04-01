@@ -1,0 +1,649 @@
+<!doctype html>
+<html lang="en" x-data="susanApp()">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WMHA Coaching — Susan Kremer</title>
+    <meta
+      name="description"
+      content="ICF PCC-certified life and business coaching with Susan Kremer. Online coaching in English."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./main.css" />
+  </head>
+  <body>
+    <!-- NAV -->
+    <nav>
+      <a href="#hero" style="flex-shrink: 0">
+        <img
+          src="https://wmhacoaching.com/images/logo.png"
+          alt="WMHA Coaching"
+          class="hero-main-logo"
+        />
+      </a>
+      <ul class="nav-links">
+        <li><a href="#services" x-text="nav.services"></a></li>
+        <li><a href="#about" x-text="nav.about"></a></li>
+        <li><a href="#booking" x-text="nav.booking"></a></li>
+        <li><a href="#contact" class="nav-cta" x-text="nav.contact"></a></li>
+      </ul>
+
+      <div style="display: flex; align-items: center; gap: 1rem">
+        <button class="nav-mobile-btn" @click="mobileMenu = !mobileMenu">
+          ☰
+        </button>
+      </div>
+    </nav>
+
+    <!-- MOBILE MENU -->
+    <div
+      x-show="mobileMenu"
+      x-cloak
+      style="
+        position: fixed;
+        top: 70px;
+        left: 0;
+        right: 0;
+        background: var(--navy);
+        z-index: 99;
+        padding: 1.5rem 2rem;
+        border-top: 1px solid rgba(255, 255, 255, 0.1);
+      "
+    >
+      <ul
+        style="
+          list-style: none;
+          display: flex;
+          flex-direction: column;
+          gap: 1.25rem;
+        "
+      >
+        <li>
+          <a
+            href="#services"
+            style="
+              color: rgba(255, 255, 255, 0.85);
+              text-decoration: none;
+              font-size: 0.95rem;
+            "
+            @click="mobileMenu=false"
+            x-text="nav.services"
+          ></a>
+        </li>
+        <li>
+          <a
+            href="#about"
+            style="
+              color: rgba(255, 255, 255, 0.85);
+              text-decoration: none;
+              font-size: 0.95rem;
+            "
+            @click="mobileMenu=false"
+            x-text="nav.about"
+          ></a>
+        </li>
+        <li>
+          <a
+            href="#chat"
+            style="
+              color: rgba(255, 255, 255, 0.85);
+              text-decoration: none;
+              font-size: 0.95rem;
+            "
+            @click="mobileMenu=false"
+            x-text="nav.companion"
+          ></a>
+        </li>
+        <li>
+          <a
+            href="#booking"
+            style="
+              color: rgba(255, 255, 255, 0.85);
+              text-decoration: none;
+              font-size: 0.95rem;
+            "
+            @click="mobileMenu=false"
+            x-text="nav.booking"
+          ></a>
+        </li>
+        <li>
+          <a
+            href="#contact"
+            style="
+              color: var(--gold);
+              text-decoration: none;
+              font-size: 0.95rem;
+              font-weight: 600;
+            "
+            @click="mobileMenu=false"
+            x-text="nav.contact"
+          ></a>
+        </li>
+      </ul>
+    </div>
+
+    <!-- HERO -->
+    <section class="hero" id="hero">
+      <div class="container">
+        <div class="hero-grid">
+          <div>
+            <div class="hero-tag">
+              <span>✦</span>
+              <span x-text="hero.tag"></span>
+            </div>
+            <h1 x-html="hero.headline"></h1>
+            <p class="hero-text" x-text="hero.sub"></p>
+            <p
+              class="hero-text"
+              style="margin-top: -0.5rem"
+              x-text="hero.sub2"
+            ></p>
+            <div class="hero-btns">
+              <a href="#contact" class="btn-primary" x-text="hero.cta1"></a>
+              <a href="#services" class="btn-outline" x-text="hero.cta2"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- BRAIN QUOTE SECTION -->
+    <div class="brain-quote-section">
+      <div class="container">
+        <div
+          style="
+            display: flex;
+            justify-content: center;
+            position: relative;
+            z-index: 1;
+          "
+        >
+          <div class="brain-quote-img-wrap">
+            <img
+              src="https://wmhacoaching.com/images/Index_Quote_2.png"
+              alt="Our brains are designed to keep us alive, not to keep us happy."
+              class="brain-quote-img"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- SERVICES -->
+    <section class="services" id="services">
+      <div class="container">
+        <p class="section-label fade-in" x-text="services.label"></p>
+        <h2 class="section-title fade-in" x-text="services.title"></h2>
+        <p class="section-subtitle fade-in" x-text="services.sub"></p>
+
+        <div class="services-grid">
+          <!-- Life Coaching -->
+          <div class="service-card fade-in">
+            <div class="service-icon">
+              <img
+                src="https://wmhacoaching.com/images/LC_button_2.png"
+                alt=""
+                style="max-height: 32px; max-width: 80px; object-fit: contain"
+                onerror="this.innerHTML='🌱'"
+              />
+            </div>
+            <h3 x-text="services.life.title"></h3>
+            <p x-text="services.life.desc"></p>
+            <p
+              style="
+                font-size: 0.85rem;
+                color: var(--text-muted);
+                font-style: italic;
+                margin-bottom: 1rem;
+              "
+              x-text="services.life.desc2"
+            ></p>
+            <p
+              style="
+                font-size: 0.75rem;
+                font-weight: 600;
+                letter-spacing: 0.08em;
+                color: var(--navy);
+                margin-bottom: 0.5rem;
+              "
+              x-text="services.topicsLabel"
+            ></p>
+            <ul class="service-topics">
+              <template x-for="topic in services.life.topics">
+                <li x-text="topic"></li>
+              </template>
+            </ul>
+            <a href="#contact" class="service-link" style="margin-top: 1rem">
+              <span x-text="services.life.cta"></span>
+              <span>→</span>
+            </a>
+          </div>
+
+          <!-- Business Coaching -->
+          <div class="service-card fade-in">
+            <div class="service-icon">
+              <img
+                src="https://wmhacoaching.com/images/BC_button_2.png"
+                alt=""
+                style="max-height: 32px; max-width: 80px; object-fit: contain"
+                onerror="this.innerHTML='💼'"
+              />
+            </div>
+            <h3 x-text="services.business.title"></h3>
+            <p x-text="services.business.desc"></p>
+            <p
+              style="
+                font-size: 0.85rem;
+                color: var(--text-muted);
+                font-style: italic;
+                margin-bottom: 1rem;
+              "
+              x-text="services.business.desc2"
+            ></p>
+            <p
+              style="
+                font-size: 0.75rem;
+                font-weight: 600;
+                letter-spacing: 0.08em;
+                color: var(--navy);
+                margin-bottom: 0.5rem;
+              "
+              x-text="services.topicsLabel"
+            ></p>
+            <ul class="service-topics">
+              <template x-for="topic in services.business.topics">
+                <li x-text="topic"></li>
+              </template>
+            </ul>
+            <a href="#contact" class="service-link" style="margin-top: 1rem">
+              <span x-text="services.business.cta"></span>
+              <span>→</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section class="about" id="about">
+      <div class="container">
+        <div class="about-grid">
+          <div class="about-image-col fade-in">
+            <div class="about-logo-display">
+              <div class="about-logo-glow">
+                <img
+                  src="https://wmhacoaching.com/images/logo.png"
+                  alt="WMHA Coaching"
+                  class="about-logo-img"
+                />
+              </div>
+              <div class="credentials">
+                <div class="credential-badge">✓ ICF PCC Certified Coach</div>
+                <div class="credential-badge">✓ Coaching Space Institute</div>
+                <div class="credential-badge">
+                  ✓ Positive Intelligence — Shirzad Chamine
+                </div>
+                <div class="credential-badge">
+                  ✓ Education & Quality Management
+                </div>
+                <div class="credential-badge">
+                  ✓ Berlin, Germany — Online Worldwide
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="about-text fade-in">
+            <p class="section-label" x-text="about.label"></p>
+            <h2 x-text="about.title"></h2>
+            <p x-text="about.p1"></p>
+            <p x-text="about.p2"></p>
+            <p x-text="about.p3"></p>
+            <h3
+              style="
+                font-size: 1.1rem;
+                color: var(--navy);
+                margin: 1.5rem 0 0.75rem;
+              "
+              x-text="about.bg"
+            ></h3>
+            <p x-text="about.p4"></p>
+            <p x-text="about.p5"></p>
+            <a
+              href="#contact"
+              class="btn-primary"
+              style="margin-top: 1.5rem"
+              x-text="about.cta"
+            ></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TESTIMONIALS -->
+    <section
+      class="testimonials"
+      id="testimonials"
+      x-data="{ current: 0, start() { setInterval(() => { this.current = (this.current + 1) % this.testimonials.items.length; }, 4000); } }"
+      x-init="start()"
+    >
+      <div class="container">
+        <p class="section-label fade-in" x-text="testimonials.label"></p>
+        <h2 class="section-title fade-in" x-text="testimonials.title"></h2>
+        <div class="testimonial-slider">
+          <div
+            class="testimonial-track"
+            :style="`transform: translateX(-${current * 100}%)`"
+          >
+            <template x-for="(item, i) in testimonials.items" :key="i">
+              <div class="testimonial-slide">
+                <div
+                  class="testimonial-card"
+                  style="text-align: center; max-width: 640px; margin: 0 auto"
+                >
+                  <div class="testimonial-stars">★★★★★</div>
+                  <p class="testimonial-text" x-text="item.text"></p>
+                  <span class="testimonial-author" x-text="item.author"></span>
+                </div>
+              </div>
+            </template>
+          </div>
+        </div>
+        <div class="testimonial-dots">
+          <template x-for="(item, i) in testimonials.items" :key="i">
+            <button
+              class="testimonial-dot"
+              :class="{ active: current === i }"
+              @click="goTo(i)"
+            ></button>
+          </template>
+        </div>
+      </div>
+    </section>
+
+    <!-- BOOKING -->
+    <section class="booking" id="booking">
+      <div class="container">
+        <div class="booking-grid">
+          <div class="fade-in">
+            <p class="section-label" x-text="booking.label"></p>
+            <h2 class="section-title" x-text="booking.title"></h2>
+            <p class="section-subtitle" x-text="booking.sub"></p>
+            <div class="booking-steps">
+              <div class="booking-step">
+                <div class="step-num">1</div>
+                <div class="step-text">
+                  <strong x-text="booking.s1.title"></strong>
+                  <span x-text="booking.s1.desc"></span>
+                </div>
+              </div>
+              <div class="booking-step">
+                <div class="step-num">2</div>
+                <div class="step-text">
+                  <strong x-text="booking.s2.title"></strong>
+                  <span x-text="booking.s2.desc"></span>
+                </div>
+              </div>
+              <div class="booking-step">
+                <div class="step-num">3</div>
+                <div class="step-text">
+                  <strong x-text="booking.s3.title"></strong>
+                  <span x-text="booking.s3.desc"></span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="booking-card fade-in">
+            <div class="booking-card-icon">📅</div>
+            <h3 x-text="booking.card.title"></h3>
+            <p x-text="booking.card.desc"></p>
+            <a
+              href="https://calendar.app.google/xmCTLfKzSViZHHrV7"
+              target="_blank"
+              class="btn-primary"
+              x-text="booking.card.cta"
+            ></a>
+            <div
+              style="
+                margin-top: 1.25rem;
+                padding-top: 1.25rem;
+                border-top: 1px solid var(--border);
+              "
+            >
+              <p
+                style="font-size: 0.8rem; color: var(--text-muted)"
+                x-text="booking.card.or"
+              ></p>
+              <a
+                href="#contact"
+                style="
+                  font-size: 0.875rem;
+                  color: var(--navy);
+                  font-weight: 600;
+                  text-decoration: none;
+                "
+                x-text="booking.card.email"
+              ></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section class="contact" id="contact">
+      <div class="container">
+        <div class="contact-grid">
+          <div class="contact-info fade-in">
+            <p class="section-label" x-text="contact.label"></p>
+            <h2 x-text="contact.title"></h2>
+            <p x-text="contact.sub"></p>
+            <div class="contact-details">
+              <div class="contact-item">
+                <div class="contact-item-icon">✉</div>
+                <span>info@wmhacoaching.com</span>
+              </div>
+              <div class="contact-item">
+                <div class="contact-item-icon">📍</div>
+                <span>Prenzlauer Allee 14, 10405 Berlin, Germany</span>
+              </div>
+              <div class="contact-item">
+                <div class="contact-item-icon">🌐</div>
+                <span x-text="contact.online"></span>
+              </div>
+            </div>
+            <a
+              href="https://calendar.app.google/xmCTLfKzSViZHHrV7"
+              target="_blank"
+              class="btn-primary"
+              style="margin-top: 1.75rem; display: inline-block"
+              x-text="booking.card.cta"
+            ></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+      <div class="footer-inner">
+        <span class="footer-copy">© 2026 Susan Kremer — WMHA Coaching</span>
+        <span><a href="/impressum">Impressum</a></span>
+      </div>
+    </footer>
+
+    <script
+      src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"
+      defer
+    ></script>
+    <script>
+      function susanApp() {
+        return {
+          lang: "en",
+          mobileMenu: false,
+          nav: {
+            services: "Services",
+            about: "About",
+            booking: "Book a Call",
+            contact: "Get in Touch",
+          },
+          hero: {
+            tag: "ICF PCC Certified · Berlin, Germany",
+            headline:
+              "What would it look like to live the life you <em>truly</em> desire?",
+            sub: "A life where you feel content with your capabilities, where you respect and trust yourself. Imagine being exactly where you're meant to be—surrounded by uplifting people, doing meaningful work, and facing exciting challenges that utilize your strengths.",
+            sub2: "Too often, we get stuck in unfulfilling jobs and difficult relationships. But you're here now, ready to make a change. By considering Life or Business Coaching, you're taking the first step towards a life of true quality and purpose.",
+            cta1: "Let's talk about what is important for you NOW",
+            cta2: "Explore My Coaching Offers",
+          },
+          support: {
+            title: "How I Can Support You:",
+            items: [
+              "Expand your thinking and gain fresh perspectives",
+              "Build resilience and stay grounded, no matter the circumstances",
+              "Align your goals with your true desires",
+              "Free up energy by acknowledging your authentic self",
+              "Become your own anchor, regardless of your surroundings",
+            ],
+          },
+          brainQuote: {
+            label: "The Science Behind Coaching",
+            quote:
+              "Our brains are designed to keep us alive, not to keep us happy.",
+            sub: "That's why we get stuck in patterns that feel safe but leave us unfulfilled. Coaching helps you recognise those patterns — and choose differently.",
+          },
+          services: {
+            label: "What I Offer",
+            title: "Life & Business Coaching Online",
+            topicsLabel: "Potential Topics:",
+            inquire: "Inquire now",
+            life: {
+              title: "Life Coaching",
+              desc: "Enhancing your quality of life touches on so many aspects of our existence. In my life coaching sessions, we explore a wide range of topics—family, fulfilling relationships, hobbies, social and ecological engagement, and self-fulfillment. We address everyday life as well as deeper questions about your values and goals. Additionally, we focus on fitness, health, and mindful self-management to promote balance and well-being.",
+              desc2:
+                "Since these areas of life are interconnected, a holistic approach is essential for lasting and meaningful change.",
+              topics: [
+                "Organizing your challenges and tackling them step by step",
+                "Gaining clarity on important decisions",
+                "Challenges of Expat life",
+                "Navigating relationship, family, or friendship conflicts",
+                "Overcoming obstacles and breaking through barriers",
+                "Mastering daily life and improving organization",
+                "Communicating effectively and asserting your needs",
+                "Prioritizing self-care and finding inner peace",
+                "Self-Actualization and self-care",
+                "Embracing your dreams and finally pursuing them",
+                "Discovering your purpose and defining what you want to achieve",
+              ],
+              cta: "Inquire now for Life Coaching",
+            },
+            business: {
+              title: "Business Coaching",
+              desc: "Imagine finding deeper meaning in your work, fully engaging without burnout, and reaching your potential in a balanced way. Picture yourself being valued, supported, and continually developing, while building strong relationships and collaborating effectively in a solution-oriented environment.",
+              desc2:
+                "Secure your personalized Business Coaching session now to increase your job satisfaction.",
+              topics: [
+                "Career transitions and new directions",
+                "Finding meaning and job satisfaction",
+                "Unlocking and using your strengths",
+                "Resolving team and leadership conflicts",
+                "Mastering feedback and salary negotiations",
+                "Succeeding in new roles or leadership positions",
+                "Advancing through continued education",
+                "Boosting time management and organization",
+                "Starting a successful self-employment journey",
+                "Achieving work-life balance",
+                "Adapting to Modern Work and Agile environments",
+              ],
+              cta: "Inquire now for Business Coaching",
+            },
+            workshops: {
+              title: "Workshops",
+              desc: "Interested in a workshop? Get in touch to find out what's available.",
+              topics: [],
+            },
+          },
+          about: {
+            label: "About Me",
+            title: "My Journey to Life and Business Coaching",
+            credential: "ICF Certified Coach, Trainer, and Partner",
+            p1: "For years, I've roamed the world with a deep interest in understanding people's attitudes and behaviors, and supporting them where I can. Immersing myself in diverse cultures and witnessing countless journeys of self-exploration has taught me the importance of authenticity and individuality in finding one's path.",
+            p2: "In my coaching practice, I create a safe and nurturing space where clients can explore their true selves and desires at their own pace. Ultimately, you are in the driver's seat, and your personal and professional growth is your responsibility.",
+            p3: "If you're ready to dive deep, gain clarity, and take meaningful steps toward your goals, I'd be honored to walk alongside you. Whether navigating life's twists and turns or unlocking your true potential, let's embark on this transformative journey together.",
+            bg: "My Professional Background",
+            p4: "After navigating my own challenging times, I discovered my voice and drew life-changing inspiration from exceptional mentors at the Coaching Space Institute, where I completed an ICF-accredited coach training program. This journey deepened with an exploration of Positive Intelligence and inner strengths, guided by renowned author Shirzad Chamine.",
+            p5: "As a PCC-level ICF-certified coach with a background in education, training, and quality management, I combine empathy, structure, and creativity to support young professionals like you. Whether you're navigating career transitions, building resilience, or unlocking your full potential, I'm here to guide you through challenges and help you thrive in both your personal and professional life.",
+            cta: "Inquire now",
+          },
+          testimonials: {
+            label: "Client Testimonials",
+            title: "What Clients Say",
+            items: [
+              {
+                text: "I would 100% recommend coaching with Susan! She is a very patient listener, empathetic, and supportive.",
+                author: "— Sophia",
+              },
+              {
+                text: "She is the best girlfriend I have ever had.",
+                author: "— Tomas",
+              },
+            ],
+          },
+          booking: {
+            label: "Ready to Start?",
+            title: "Book Your Free Discovery Call",
+            sub: "A 30-minute conversation to explore what coaching looks like for you — no commitment, no pressure.",
+            s1: {
+              title: "Choose a time",
+              desc: "Pick a slot that works for you via Google Calendar",
+            },
+            s2: {
+              title: "We talk",
+              desc: "A relaxed conversation about where you are and where you want to go",
+            },
+            s3: {
+              title: "You decide",
+              desc: "No pressure — you choose if coaching is right for you",
+            },
+            card: {
+              title: "Book a Discovery Call",
+              desc: "Free 30-minute call. Online via video. Conducted in English.",
+              cta: "Book Now via Google Calendar",
+              or: "or prefer email?",
+              email: "Write to info@wmhacoaching.com →",
+            },
+          },
+          contact: {
+            label: "Contact",
+            title: "Get in Touch",
+            sub: "Ready to make a coaching appointment, or need more information? I look forward to your message.",
+            online: "Online sessions worldwide — conducted in English",
+          },
+
+          init() {
+            // Intersection observer for fade-ins
+            const observer = new IntersectionObserver(
+              (entries) => {
+                entries.forEach((e) => {
+                  if (e.isIntersecting) {
+                    e.target.classList.add("visible");
+                    observer.unobserve(e.target);
+                  }
+                });
+              },
+              { threshold: 0.1 },
+            );
+
+            document
+              .querySelectorAll(".fade-in")
+              .forEach((el) => observer.observe(el));
+          },
+        };
+      }
+    </script>
+  </body>
+</html>
